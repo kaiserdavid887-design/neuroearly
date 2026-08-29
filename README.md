@@ -1,6 +1,3 @@
-# neuroearly
-An evidence-based neuroscience project exploring early signs, mechanisms, risk factors, and risk reduction in neurodegenerative diseases.
-
 # NeuroEarly
 
 NeuroEarly is an evidence-based neuroscience project exploring the earliest changes associated with neurodegenerative diseases, with a focus on understanding disease mechanisms, early warning patterns, risk factors, and evidence-based risk reduction.
